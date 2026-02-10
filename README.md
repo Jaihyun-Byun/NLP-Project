@@ -19,6 +19,7 @@ LLM의 환각(Hallucination)을 줄이기 위해 정보의 근원지(Source Orig
 
 💻 코드 사용법 (Usage)
 본 프로젝트는 Google Colab 환경에서 Ollama(Llama 3)를 활용하여 최적화되었습니다.
+
 📂 폴더 구조 (Folder Structure)
 • main_proposal.ipynb: 프로젝트 전체 로직 및 실험 코드가 포함된 메인 노트북
 • README.md: 프로젝트 설명서
