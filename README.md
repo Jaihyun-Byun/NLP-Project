@@ -1,5 +1,6 @@
 # NLP-Project-변재현
-2026 AI Scientist course NLP Final project\n
+2026 AI Scientist course NLP Final project
+
 Origin-Aware Agent: Intelligent RAG for Global Product Insights
 LLM의 환각(Hallucination)을 줄이기 위해 정보의 근원지(Source Origin)를 추론하고 다국어 쿼리를 확장하는 Advanced RAG 에이전트 프로젝트입니다.
 🚀 프로젝트 개요 (Overview)
@@ -14,7 +15,8 @@ LLM의 환각(Hallucination)을 줄이기 위해 정보의 근원지(Source Orig
 1. Analysis: 질문의 카테고리와 정보 원천(Source) 식별.
 2. Expansion: CoT 기반 다국어/다각도 쿼리 생성.
 3. Retrieval: DuckDuckGo를 이용한 글로벌 웹 데이터 수집.
-4. Synthesis: 파편화된 정보를 논리적인 리포트 형태로 종합.\n
+4. Synthesis: 파편화된 정보를 논리적인 리포트 형태로 종합.
+
 💻 코드 사용법 (Usage)
 본 프로젝트는 Google Colab 환경에서 Ollama(Llama 3)를 활용하여 최적화되었습니다.
 📂 폴더 구조 (Folder Structure)
